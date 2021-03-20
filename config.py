@@ -1,0 +1,1 @@
+stocks_api_key="06KIF6AGHPX83G98"
